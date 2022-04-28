@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [rahulgaur.com](rahulgaur.com)
 
+- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
+
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rahulgaurr09@gmail.com**

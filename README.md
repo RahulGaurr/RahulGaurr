@@ -4,7 +4,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [rahul-gaur-projects](rahul-gaur-portfolio-july-2023.netlify.app/)
+- 👨‍💻 All of my projects are available at [rahul-gaur-projects](https://rahul-gaur-portfolio-july-2023.netlify.app/)
 
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 

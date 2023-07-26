@@ -31,16 +31,10 @@
 <br/>
 
 
-## 📊 My Github Stats
-
-![Rahul GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulGaurr&show_icons=true&theme=radical) 
 
 </br>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulGaurr&theme=radical) 
-
-</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulGaurr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Coolasid/github-readme-stats)
 

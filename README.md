@@ -7,13 +7,14 @@
 </div>
 
 
-- 👨‍💻 All of my projects are available at [rahul-gaur-projects](https://rahul-gaur-portfolio-july-2023.netlify.app/)
+- 📃 Know about my experiences: [CV](https://drive.google.com/file/d/1F6PAhVzw-7jgZxeGTiBwogazfQlZzn-P/view)
 
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rahulgaurr09@gmail.com**
+- 🔗 Visit and See my work and projects: [Portfolio](https://rahul-portfolio-july-updated-2023.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

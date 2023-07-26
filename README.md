@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Gaur</h1>
-<h3 align="center">Solution driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer</h3>
 
-
+<br/>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&size=32&pause=994&background=E233FF00&width=452&lines=Full+Stack+Web+Developer;Frontend+Development;Backend+Development)](https://git.io/typing-svg)
+</div>
 
 
 - 👨‍💻 All of my projects are available at [rahul-gaur-projects](https://rahul-gaur-portfolio-july-2023.netlify.app/)

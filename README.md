@@ -7,7 +7,7 @@
 </div>
 
 
-- 📃 Know about my experiences: [CV](https://drive.google.com/file/d/1VMEnnHW82EhcALVVxjtSznNE04xhuWY8/view?usp=sharing)
+- 📃 Know about my experiences: [CV] (https://drive.google.com/file/d/1VMEnnHW82EhcALVVxjtSznNE04xhuWY8/view?usp=sharing)
 
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 

@@ -7,14 +7,14 @@
 </div>
 
 
-- 📃 Know about my experiences: [CV](https://drive.google.com/file/d/1GVh5tQ2UUccOaCTWdLnk-zPZaKWp74Zm/view?usp=sharing)
+- 📃 Know about my experiences: [CV](https://drive.google.com/file/d/14dFeWwyXVl4fdJX4Y2fmyQmAhjaezo0R/view?usp=sharing)
 
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rahulgaurr09@gmail.com**
-- 🔗 Visit and See my work and projects: [Portfolio](https://rahul-portfolio-sep2-updated-2023.netlify.app/)
+- 🔗 Visit and See my work and projects: [Portfolio](https://rahul-portfolio-feb-updated-2024.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

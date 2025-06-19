@@ -14,7 +14,7 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rahulgaurr09@gmail.com**
-- 🔗 Visit and See my work and projects: [Portfolio](https://rahul-portfolio-feb-updated-2024.netlify.app/)
+- 🔗 Visit and See my work and projects: [Portfolio](https://rahul-portfolio-25.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
